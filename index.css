@@ -1,0 +1,18 @@
+.js-currency-selector {
+  color: white;
+  cursor: pointer;
+  background-color: coral;
+  border: 1px solid black;
+  padding: 5px;
+}
+
+.js-currency-selector:hover {
+  opacity: 0.7;
+}
+
+.js-output {
+  color: coral;
+  font-size: 20px;
+  font-weight: bold;
+  margin-top: 10px;
+}
